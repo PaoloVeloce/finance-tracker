@@ -1,0 +1,8 @@
+Third portfolio app called Finance tracker.
+
+It is going to be include such things as:
+- devise gem for user registration
+- stock gem for getting info about stocks
+- ability to make friends in app
+- ability to add track or remove
+- Jquery and Ajax things
