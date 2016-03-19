@@ -1,8 +1,13 @@
 Third portfolio app called Finance tracker.
 
-It is going to be include such things as:
-- devise gem for user registration
+It includes such things as:
+- devise gem for user registration. (second time integrated)
+- inserting into devise first and last name as addition
 - stock gem for getting info about stocks
-- ability to make friends in app
-- ability to add track or remove
-- Jquery and Ajax things
+- ability to make friends in app and also destroy such friendships
+- possibility to code friends as users also, through many-to-many association
+- ability to add stock for tracking or remove it
+- Jquery and Ajax first connection and funny spinner while waiting for a search
+- simple twitter-bootstrap styling with coloured buttons
+
+Complete heroku-deployed version is here - https://fintrack-paolo.herokuapp.com
